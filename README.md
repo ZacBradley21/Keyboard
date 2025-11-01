@@ -1,1 +1,2 @@
 Custom keycaps to use: https://aiheystudio.com/products/monster-hunter-custom-keycap-set?variant=44864509116737&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOoqr-kUJyLV7YSvW93TFpYkegU_yIlD8Tw4RBG0esbXV6M0wdwA3cY0
+In order to create the custom space bar pieces, use software from https://www.blender.org/
